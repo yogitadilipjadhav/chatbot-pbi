@@ -27,6 +27,4 @@ if user_input:
             st.success(message)
         except Exception as e:
             st.error(f"Error: {e}")
-OpenAI
-We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.
  
