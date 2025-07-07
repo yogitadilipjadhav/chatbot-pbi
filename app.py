@@ -10,7 +10,7 @@ user_input = st.text_input("Ask me anything:")
  
 if user_input:
     try:
-response = openai.chat.completions.create(
+     response = openai.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
