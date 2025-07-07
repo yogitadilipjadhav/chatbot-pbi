@@ -1,23 +1,21 @@
 import streamlit as st
-from openai import OpenAI
+import openai  # FIXED import
 import os
-
+ 
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖", layout="wide")
-
 st.title("🤖 AI Chatbot for Power BI")
-
-# Initialize OpenAI Client
-#openai_api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY") or "sk-Your-OpenAI-Key-Here"
+ 
+# Load API key
 openai_api_key = st.secrets["OPENAI_API_KEY"]
-client = OpenAI(api_key=openai_api_key)
-
+openai.api_key = openai_api_key  # FIXED
+ 
 # User Input
 user_input = st.text_input("Ask me anything about your business data:")
-
+ 
 if user_input:
     with st.spinner("Thinking..."):
         try:
-            response = client.chat.completions.create(
+            response = openai.ChatCompletion.create(  # FIXED
                 model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": "You are an expert business analyst providing insights on consumer dynamics, volume, and spend."},
@@ -30,3 +28,4 @@ if user_input:
             st.success(message)
         except Exception as e:
             st.error(f"Error: {e}")
+ 
