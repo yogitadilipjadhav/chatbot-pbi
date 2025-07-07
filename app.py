@@ -19,6 +19,6 @@ if user_input:
             temperature=0.5,
             max_tokens=500
         )
-        st.success(response.choices[0].message.content.strip())
+     st.success(response.choices[0].message.content.strip())
     except Exception as e:
         st.error(f"Error: {e}")
