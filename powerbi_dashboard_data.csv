@@ -1,0 +1,470 @@
+﻿Country,Year,Quarter,Month,Day,Product,Sum of Discounts,Sum of Gross Sales
+Canada,2013,Qtr 3,September,1,Amarilla,3975.84,33132
+Canada,2013,Qtr 3,September,1,Carretera,36240,302000
+Canada,2013,Qtr 3,September,1,Montana,30792,384900
+Canada,2013,Qtr 3,September,1,Paseo,6009.15,53493
+Canada,2013,Qtr 3,September,1,Velo,2116.8,52920
+Canada,2013,Qtr 3,September,1,VTT,26166,218050
+Canada,2013,Qtr 4,October,1,Amarilla,25150.3,455945
+Canada,2013,Qtr 4,October,1,Carretera,2453.56,47545
+Canada,2013,Qtr 4,October,1,Montana,798.28,63082
+Canada,2013,Qtr 4,October,1,Paseo,28194.579999999998,511313
+Canada,2013,Qtr 4,October,1,Velo,11298,123825
+Canada,2013,Qtr 4,October,1,VTT,12687,108480
+Canada,2013,Qtr 4,November,1,Carretera,2574,23400
+Canada,2013,Qtr 4,November,1,Paseo,33216.96,1051614
+Canada,2013,Qtr 4,November,1,Velo,146.44,14644
+Canada,2013,Qtr 4,November,1,VTT,61844.5,427950
+Canada,2013,Qtr 4,December,1,Amarilla,24892,622300
+Canada,2013,Qtr 4,December,1,Carretera,326.88,10896
+Canada,2013,Qtr 4,December,1,Montana,1014.93,11277
+Canada,2013,Qtr 4,December,1,Paseo,1802,68320
+Canada,2013,Qtr 4,December,1,Velo,23950,239500
+Canada,2013,Qtr 4,December,1,VTT,43848,730800
+Canada,2014,Qtr 1,January,1,Amarilla,26958.75,207375
+Canada,2014,Qtr 1,January,1,Carretera,0,32370
+Canada,2014,Qtr 1,January,1,Montana,109147.5,779625
+Canada,2014,Qtr 1,January,1,Paseo,29999.28,291657
+Canada,2014,Qtr 1,January,1,Velo,633.5999999999999,5760
+Canada,2014,Qtr 1,January,1,VTT,2725.38,38934
+Canada,2014,Qtr 1,February,1,Amarilla,78400,784000
+Canada,2014,Qtr 1,February,1,Carretera,2556.84,23244
+Canada,2014,Qtr 1,February,1,Montana,273.28,3416
+Canada,2014,Qtr 1,February,1,Paseo,708.9,41285
+Canada,2014,Qtr 1,February,1,Velo,7140,119000
+Canada,2014,Qtr 1,February,1,VTT,0,600300
+Canada,2014,Qtr 1,March,1,Amarilla,37296,266400
+Canada,2014,Qtr 1,March,1,Carretera,41996.5,323050
+Canada,2014,Qtr 1,March,1,Montana,1180.2,29505
+Canada,2014,Qtr 1,March,1,Paseo,13450.9,270310
+Canada,2014,Qtr 1,March,1,Velo,574.08,7176
+Canada,2014,Qtr 1,March,1,VTT,92.82,9282
+Canada,2014,Qtr 2,April,1,Amarilla,4224.6,42246
+Canada,2014,Qtr 2,April,1,Carretera,1856.25,92812.5
+Canada,2014,Qtr 2,April,1,Montana,102667.5,1140750
+Canada,2014,Qtr 2,April,1,Paseo,4390.65,29271
+Canada,2014,Qtr 2,April,1,Velo,2310.3,77010
+Canada,2014,Qtr 2,April,1,VTT,3302.25,330225
+Canada,2014,Qtr 2,May,1,Amarilla,14393.75,205625
+Canada,2014,Qtr 2,May,1,Carretera,498.6,16620
+Canada,2014,Qtr 2,May,1,Montana,9800,70000
+Canada,2014,Qtr 2,May,1,Paseo,35885.92,512399
+Canada,2014,Qtr 2,May,1,Velo,1325.1,18930
+Canada,2014,Qtr 2,May,1,VTT,3036.96,25308
+Canada,2014,Qtr 2,June,1,Amarilla,1688.9499999999998,22105
+Canada,2014,Qtr 2,June,1,Carretera,32097.6,370860
+Canada,2014,Qtr 2,June,1,Montana,1132.8,44376
+Canada,2014,Qtr 2,June,1,Paseo,175017.75,1477491
+Canada,2014,Qtr 2,June,1,Velo,120312.15,929145
+Canada,2014,Qtr 2,June,1,VTT,28283.35,240535
+Canada,2014,Qtr 3,July,1,Amarilla,2201.175,24457.5
+Canada,2014,Qtr 3,July,1,Carretera,515.97,5733
+Canada,2014,Qtr 3,July,1,Montana,0,333187.5
+Canada,2014,Qtr 3,July,1,Paseo,86337.57,784887
+Canada,2014,Qtr 3,July,1,Velo,102424.5,1138050
+Canada,2014,Qtr 3,July,1,VTT,2596.5,17310
+Canada,2014,Qtr 3,August,1,Amarilla,9660,193200
+Canada,2014,Qtr 3,August,1,Carretera,1582.56,22608
+Canada,2014,Qtr 3,August,1,Montana,128.1,12810
+Canada,2014,Qtr 3,August,1,Paseo,11024.55,86265
+Canada,2014,Qtr 3,August,1,Velo,1153.75,115375
+Canada,2014,Qtr 3,August,1,VTT,16866,562200
+Canada,2014,Qtr 3,September,1,Amarilla,24745,247450
+Canada,2014,Qtr 3,September,1,Carretera,173.4,17340
+Canada,2014,Qtr 3,September,1,Montana,380.24,2716
+Canada,2014,Qtr 3,September,1,Paseo,1790,44750
+Canada,2014,Qtr 3,September,1,Velo,6378.75,70875
+Canada,2014,Qtr 3,September,1,VTT,51216,640200
+Canada,2014,Qtr 4,October,1,Amarilla,42270.06,463288
+Canada,2014,Qtr 4,October,1,Carretera,63142.8,464340
+Canada,2014,Qtr 4,October,1,Montana,5543.96,44118
+Canada,2014,Qtr 4,October,1,Paseo,14143.7,315120
+Canada,2014,Qtr 4,October,1,Velo,47507.25,695275
+Canada,2014,Qtr 4,October,1,VTT,65883.75,472275
+Canada,2014,Qtr 4,November,1,Amarilla,1565.2,22360
+Canada,2014,Qtr 4,November,1,Carretera,4840.2,40335
+Canada,2014,Qtr 4,November,1,Montana,2506.68,27852
+Canada,2014,Qtr 4,November,1,Paseo,79378,654800
+Canada,2014,Qtr 4,November,1,Velo,1392.16,12656
+Canada,2014,Qtr 4,November,1,VTT,31612.5,316125
+Canada,2014,Qtr 4,December,1,Amarilla,11496,574800
+Canada,2014,Qtr 4,December,1,Carretera,24794,1032700
+Canada,2014,Qtr 4,December,1,Montana,4830,34500
+Canada,2014,Qtr 4,December,1,Paseo,39741.1,1979637
+Canada,2014,Qtr 4,December,1,Velo,2233.7799999999997,40246
+Canada,2014,Qtr 4,December,1,VTT,7597.68,388539
+France,2013,Qtr 3,September,1,Carretera,17902.5,127875
+France,2013,Qtr 3,September,1,Montana,8694,96600
+France,2013,Qtr 3,September,1,Paseo,505.19,15452
+France,2013,Qtr 3,September,1,Velo,6171,56100
+France,2013,Qtr 3,September,1,VTT,2412.72,561258
+France,2013,Qtr 4,October,1,Amarilla,44185.26,736421
+France,2013,Qtr 4,October,1,Carretera,1581.36,14376
+France,2013,Qtr 4,October,1,Montana,2697.66,44961
+France,2013,Qtr 4,October,1,Paseo,11340.26,170021
+France,2013,Qtr 4,October,1,Velo,69974,1180900
+France,2013,Qtr 4,October,1,VTT,25228.5,398805
+France,2013,Qtr 4,November,1,Amarilla,48.15,4815
+France,2013,Qtr 4,November,1,Carretera,300.3,15015
+France,2013,Qtr 4,November,1,Montana,20891.25,232125
+France,2013,Qtr 4,November,1,Paseo,94606.4,694120
+France,2013,Qtr 4,November,1,Velo,9264,115800
+France,2013,Qtr 4,November,1,VTT,4827.6,53640
+France,2013,Qtr 4,December,1,Amarilla,330.48,3672
+France,2013,Qtr 4,December,1,Carretera,18525,185250
+France,2013,Qtr 4,December,1,Montana,42696,355800
+France,2013,Qtr 4,December,1,Paseo,2104.2,48867
+France,2013,Qtr 4,December,1,Velo,1033,20660
+France,2013,Qtr 4,December,1,VTT,62769,448350
+France,2014,Qtr 1,January,1,Amarilla,14906.25,248437.5
+France,2014,Qtr 1,January,1,Carretera,6051.6,50430
+France,2014,Qtr 1,January,1,Montana,24228.75,484575
+France,2014,Qtr 1,January,1,Paseo,22186.65,757965
+France,2014,Qtr 1,January,1,Velo,7795.125,59962.5
+France,2014,Qtr 1,January,1,VTT,2288.88,20808
+France,2014,Qtr 1,February,1,Amarilla,0,962500
+France,2014,Qtr 1,February,1,Carretera,1119,22380
+France,2014,Qtr 1,February,1,Montana,287.14,2051
+France,2014,Qtr 1,February,1,Paseo,1647.4,60500
+France,2014,Qtr 1,February,1,Velo,0,225500
+France,2014,Qtr 1,February,1,VTT,20139,287700
+France,2014,Qtr 1,March,1,Amarilla,111375,742500
+France,2014,Qtr 1,March,1,Carretera,81445,626500
+France,2014,Qtr 1,March,1,Montana,3001.2,37515
+France,2014,Qtr 1,March,1,Paseo,18814.25,337205
+France,2014,Qtr 1,March,1,Velo,2124.36,23604
+France,2014,Qtr 1,March,1,VTT,1252.44,10437
+France,2014,Qtr 2,April,1,Carretera,15913.125,530437.5
+France,2014,Qtr 2,April,1,Montana,63828,531900
+France,2014,Qtr 2,April,1,Paseo,5370.539999999999,74739
+France,2014,Qtr 2,April,1,Velo,772.8000000000001,77280
+France,2014,Qtr 2,April,1,VTT,17546.34,221937
+France,2014,Qtr 2,May,1,Amarilla,19703.75,179125
+France,2014,Qtr 2,May,1,Carretera,1563,31260
+France,2014,Qtr 2,May,1,Montana,52479,583100
+France,2014,Qtr 2,May,1,Paseo,5580.1,282610
+France,2014,Qtr 2,May,1,Velo,6358.5,42390
+France,2014,Qtr 2,May,1,VTT,415.68,10392
+France,2014,Qtr 2,June,1,Amarilla,1082.9,46310
+France,2014,Qtr 2,June,1,Carretera,9408,167070
+France,2014,Qtr 2,June,1,Montana,684.36,60792
+France,2014,Qtr 2,June,1,Paseo,42492.11,779187
+France,2014,Qtr 2,June,1,Velo,32498.9,531930
+France,2014,Qtr 2,June,1,VTT,983.75,131045
+France,2014,Qtr 3,July,1,Amarilla,2874.06,23950.5
+France,2014,Qtr 3,July,1,Montana,275.1,27510
+France,2014,Qtr 3,July,1,Paseo,18141.66,402606
+France,2014,Qtr 3,July,1,Velo,57204,721350
+France,2014,Qtr 3,July,1,VTT,6974.099999999999,58117.5
+France,2014,Qtr 3,August,1,Amarilla,4158,29700
+France,2014,Qtr 3,August,1,Carretera,22012.5,146750
+France,2014,Qtr 3,August,1,Montana,37488,468600
+France,2014,Qtr 3,August,1,Paseo,4659.41,50387
+France,2014,Qtr 3,August,1,Velo,1579,31580
+France,2014,Qtr 3,August,1,VTT,10668,133350
+France,2014,Qtr 3,September,1,Amarilla,70462,1006600
+France,2014,Qtr 3,September,1,Carretera,320.52,32052
+France,2014,Qtr 3,September,1,Montana,114.24,3808
+France,2014,Qtr 3,September,1,Paseo,4114,70000
+France,2014,Qtr 3,September,1,Velo,12431.25,82875
+France,2014,Qtr 3,September,1,VTT,0,645300
+France,2014,Qtr 4,October,1,Amarilla,4036.62,28833
+France,2014,Qtr 4,October,1,Carretera,79364.75,959425
+France,2014,Qtr 4,October,1,Montana,48567.4,693820
+France,2014,Qtr 4,October,1,Paseo,39256.82,352363
+France,2014,Qtr 4,October,1,Velo,33244.4,801470
+France,2014,Qtr 4,October,1,VTT,32134.45,780355
+France,2014,Qtr 4,November,1,Amarilla,376.4,18820
+France,2014,Qtr 4,November,1,Carretera,588,7350
+France,2014,Qtr 4,November,1,Montana,1967.28,28104
+France,2014,Qtr 4,November,1,Paseo,102696,955100
+France,2014,Qtr 4,November,1,Velo,44.73,4473
+France,2014,Qtr 4,November,1,VTT,2180,218000
+France,2014,Qtr 4,December,1,Amarilla,28698,286980
+France,2014,Qtr 4,December,1,Carretera,8412.95,771659
+France,2014,Qtr 4,December,1,Montana,7934.25,191955
+France,2014,Qtr 4,December,1,Paseo,13500.95,933645
+France,2014,Qtr 4,December,1,Velo,25843.2,268560
+France,2014,Qtr 4,December,1,VTT,1749.45,23269
+Germany,2013,Qtr 3,September,1,Amarilla,8697.5,124250
+Germany,2013,Qtr 3,September,1,Carretera,1149.2,8840
+Germany,2013,Qtr 3,September,1,Montana,18868.5,628950
+Germany,2013,Qtr 3,September,1,Paseo,24932.04,353763
+Germany,2013,Qtr 3,September,1,Velo,1287,9900
+Germany,2013,Qtr 3,September,1,VTT,1860.6,26580
+Germany,2013,Qtr 4,October,1,Amarilla,21167.65,1046213
+Germany,2013,Qtr 4,October,1,Carretera,1375.92,73392
+Germany,2013,Qtr 4,October,1,Montana,6988.049999999999,67953
+Germany,2013,Qtr 4,October,1,Paseo,9572.07,199332
+Germany,2013,Qtr 4,October,1,Velo,22784.5,1139225
+Germany,2013,Qtr 4,October,1,VTT,2159.25,93375
+Germany,2013,Qtr 4,November,1,Amarilla,1309.5,14550
+Germany,2013,Qtr 4,November,1,Carretera,355.6,7112
+Germany,2013,Qtr 4,November,1,Montana,21875,312500
+Germany,2013,Qtr 4,November,1,Paseo,62005,772400
+Germany,2013,Qtr 4,November,1,Velo,106512,760800
+Germany,2013,Qtr 4,November,1,VTT,2297,45940
+Germany,2013,Qtr 4,December,1,Amarilla,2761.2,21240
+Germany,2013,Qtr 4,December,1,Carretera,6652.5,110875
+Germany,2013,Qtr 4,December,1,Montana,9018,100200
+Germany,2013,Qtr 4,December,1,Paseo,2628.25,46615
+Germany,2013,Qtr 4,December,1,Velo,823.2,11760
+Germany,2013,Qtr 4,December,1,VTT,65450,654500
+Germany,2014,Qtr 1,January,1,Amarilla,43518.75,395625
+Germany,2014,Qtr 1,January,1,Carretera,0,26420
+Germany,2014,Qtr 1,January,1,Montana,29491,268100
+Germany,2014,Qtr 1,January,1,Paseo,31953.2,251704
+Germany,2014,Qtr 1,January,1,Velo,1021.5,10215
+Germany,2014,Qtr 1,January,1,VTT,892.44,29748
+Germany,2014,Qtr 1,February,1,Amarilla,23625,472500
+Germany,2014,Qtr 1,February,1,Carretera,669.6,13392
+Germany,2014,Qtr 1,February,1,Montana,411.18,13706
+Germany,2014,Qtr 1,February,1,Paseo,7624.6,58330
+Germany,2014,Qtr 1,February,1,Velo,5043.75,100875
+Germany,2014,Qtr 1,February,1,VTT,71793,797700
+Germany,2014,Qtr 1,March,1,Amarilla,1554,77700
+Germany,2014,Qtr 1,March,1,Carretera,30492,277200
+Germany,2014,Qtr 1,March,1,Montana,0,13815
+Germany,2014,Qtr 1,March,1,Paseo,7449,122535
+Germany,2014,Qtr 1,March,1,Velo,0,25932
+Germany,2014,Qtr 1,March,1,VTT,18.41,1841
+Germany,2014,Qtr 2,April,1,Amarilla,0,527437.5
+Germany,2014,Qtr 2,April,1,Carretera,1548,51600
+Germany,2014,Qtr 2,April,1,Montana,58751,419650
+Germany,2014,Qtr 2,April,1,Paseo,17679.04,433163
+Germany,2014,Qtr 2,April,1,Velo,765,7650
+Germany,2014,Qtr 2,April,1,VTT,0,34056
+Germany,2014,Qtr 2,May,1,Amarilla,5690,284500
+Germany,2014,Qtr 2,May,1,Carretera,1193.4,13260
+Germany,2014,Qtr 2,May,1,Montana,30660,511000
+Germany,2014,Qtr 2,May,1,Paseo,10981.2,526065
+Germany,2014,Qtr 2,May,1,Velo,1377,22950
+Germany,2014,Qtr 2,May,1,VTT,950.4,10560
+Germany,2014,Qtr 2,June,1,Amarilla,2185.6,27320
+Germany,2014,Qtr 2,June,1,Carretera,6201,220020
+Germany,2014,Qtr 2,June,1,Montana,0,18540
+Germany,2014,Qtr 2,June,1,Paseo,14274.1,782370
+Germany,2014,Qtr 2,June,1,Velo,1309.28,387006
+Germany,2014,Qtr 2,June,1,VTT,7196.78,225936
+Germany,2014,Qtr 3,July,1,Amarilla,0,11802
+Germany,2014,Qtr 3,July,1,Carretera,92763,843300
+Germany,2014,Qtr 3,July,1,Montana,1032,12900
+Germany,2014,Qtr 3,July,1,Paseo,30738.75,443529
+Germany,2014,Qtr 3,July,1,Velo,41170.5,457450
+Germany,2014,Qtr 3,July,1,VTT,1107,7380
+Germany,2014,Qtr 3,August,1,Amarilla,3088.8,30888
+Germany,2014,Qtr 3,August,1,Carretera,51881.25,345875
+Germany,2014,Qtr 3,August,1,Montana,22308,557700
+Germany,2014,Qtr 3,August,1,Paseo,2463.58,37331
+Germany,2014,Qtr 3,August,1,Velo,1201.2,20020
+Germany,2014,Qtr 3,August,1,VTT,11816,147700
+Germany,2014,Qtr 3,September,1,Amarilla,26698,667450
+Germany,2014,Qtr 3,September,1,Carretera,1706.4,18960
+Germany,2014,Qtr 3,September,1,Montana,0,15022
+Germany,2014,Qtr 3,September,1,Paseo,3206.4500000000003,49885
+Germany,2014,Qtr 3,September,1,Velo,18261.25,260875
+Germany,2014,Qtr 3,September,1,VTT,2958,295800
+Germany,2014,Qtr 4,October,1,Amarilla,623.04,5664
+Germany,2014,Qtr 4,October,1,Carretera,44595.75,741925
+Germany,2014,Qtr 4,October,1,Montana,24252,606300
+Germany,2014,Qtr 4,October,1,Paseo,23696.3,160590
+Germany,2014,Qtr 4,October,1,Velo,21244.04,1017434
+Germany,2014,Qtr 4,October,1,VTT,23009.55,1027095
+Germany,2014,Qtr 4,November,1,Amarilla,2432,30400
+Germany,2014,Qtr 4,November,1,Carretera,3177.3,22695
+Germany,2014,Qtr 4,November,1,Montana,1405.2,28104
+Germany,2014,Qtr 4,November,1,Paseo,65167.5,532650
+Germany,2014,Qtr 4,November,1,Velo,1865.5,18655
+Germany,2014,Qtr 4,November,1,VTT,10350,69000
+Germany,2014,Qtr 4,December,1,Amarilla,19603.2,385665
+Germany,2014,Qtr 4,December,1,Carretera,274.4,531510
+Germany,2014,Qtr 4,December,1,Montana,7250.7,223915
+Germany,2014,Qtr 4,December,1,Paseo,11652.18,785576
+Germany,2014,Qtr 4,December,1,Velo,20330.28,387156
+Germany,2014,Qtr 4,December,1,VTT,3948.8,32580
+Mexico,2013,Qtr 3,September,1,Amarilla,13021.25,118375
+Mexico,2013,Qtr 3,September,1,Carretera,2567.6,36680
+Mexico,2013,Qtr 3,September,1,Montana,12600,252000
+Mexico,2013,Qtr 3,September,1,Paseo,369.6,248720
+Mexico,2013,Qtr 3,September,1,Velo,1080.75,9825
+Mexico,2013,Qtr 3,September,1,VTT,1326.6,12060
+Mexico,2013,Qtr 4,October,1,Amarilla,14936.46,132489
+Mexico,2013,Qtr 4,October,1,Carretera,1878.3600000000001,152604
+Mexico,2013,Qtr 4,October,1,Montana,5808.46,46389
+Mexico,2013,Qtr 4,October,1,Paseo,10783.26,329539
+Mexico,2013,Qtr 4,October,1,Velo,18606.5,388525
+Mexico,2013,Qtr 4,October,1,VTT,2390.4,170910
+Mexico,2013,Qtr 4,November,1,Amarilla,3927,28050
+Mexico,2013,Qtr 4,November,1,Carretera,2083.62,18942
+Mexico,2013,Qtr 4,November,1,Montana,4150,207500
+Mexico,2013,Qtr 4,November,1,Paseo,115248.42,786006
+Mexico,2013,Qtr 4,November,1,Velo,101595,781500
+Mexico,2013,Qtr 4,November,1,VTT,1347.6,22460
+Mexico,2013,Qtr 4,December,1,Amarilla,1320,16500
+Mexico,2013,Qtr 4,December,1,Carretera,49367.5,352625
+Mexico,2013,Qtr 4,December,1,Montana,16500,330000
+Mexico,2013,Qtr 4,December,1,Paseo,1773.76,19322
+Mexico,2013,Qtr 4,December,1,Velo,217.6,10880
+Mexico,2013,Qtr 4,December,1,VTT,13580,679000
+Mexico,2014,Qtr 1,January,1,Amarilla,5783.8,52580
+Mexico,2014,Qtr 1,January,1,Montana,1965.6,28080
+Mexico,2014,Qtr 1,January,1,Paseo,145390.5,1615450
+Mexico,2014,Qtr 1,January,1,Velo,2145.75,53366
+Mexico,2014,Qtr 1,January,1,VTT,7617.5,69250
+Mexico,2014,Qtr 1,February,1,Amarilla,26110,652750
+Mexico,2014,Qtr 1,February,1,Carretera,610.68,8724
+Mexico,2014,Qtr 1,February,1,Montana,1436.4,9576
+Mexico,2014,Qtr 1,February,1,Paseo,728,19810
+Mexico,2014,Qtr 1,February,1,Velo,27562.5,196875
+Mexico,2014,Qtr 1,February,1,VTT,57687,824100
+Mexico,2014,Qtr 1,March,1,Amarilla,6606,330300
+Mexico,2014,Qtr 1,March,1,Carretera,4235,423500
+Mexico,2014,Qtr 1,March,1,Montana,332.1,33210
+Mexico,2014,Qtr 1,March,1,Paseo,13608.4,161690
+Mexico,2014,Qtr 1,March,1,Velo,900,6000
+Mexico,2014,Qtr 1,March,1,VTT,2844.94,20321
+Mexico,2014,Qtr 2,April,1,Amarilla,5370,134250
+Mexico,2014,Qtr 2,April,1,Carretera,7221.2,51580
+Mexico,2014,Qtr 2,April,1,Montana,20580,343000
+Mexico,2014,Qtr 2,April,1,Paseo,26766.75,499845
+Mexico,2014,Qtr 2,April,1,Velo,3547.8,39420
+Mexico,2014,Qtr 2,April,1,VTT,689.76,22992
+Mexico,2014,Qtr 2,May,1,Amarilla,4078,40780
+Mexico,2014,Qtr 2,May,1,Montana,3831.84,31932
+Mexico,2014,Qtr 2,May,1,Paseo,167407.5,1175150
+Mexico,2014,Qtr 2,May,1,Velo,356.09,6209
+Mexico,2014,Qtr 2,May,1,VTT,4262.5,42625
+Mexico,2014,Qtr 2,June,1,Amarilla,60908.4,758760
+Mexico,2014,Qtr 2,June,1,Carretera,37212,347150
+Mexico,2014,Qtr 2,June,1,Montana,942.24,44298
+Mexico,2014,Qtr 2,June,1,Paseo,99775.4,1151610
+Mexico,2014,Qtr 2,June,1,Velo,1571.4,17734
+Mexico,2014,Qtr 2,June,1,VTT,2284.16,93236
+Mexico,2014,Qtr 3,July,1,Amarilla,589.05,11781
+Mexico,2014,Qtr 3,July,1,Carretera,33642,240300
+Mexico,2014,Qtr 3,July,1,Montana,5863,45100
+Mexico,2014,Qtr 3,July,1,Paseo,3169.51,234727
+Mexico,2014,Qtr 3,July,1,Velo,58590,488250
+Mexico,2014,Qtr 3,July,1,VTT,961.5,9615
+Mexico,2014,Qtr 3,August,1,Amarilla,673.8,13476
+Mexico,2014,Qtr 3,August,1,Carretera,15400,192500
+Mexico,2014,Qtr 3,August,1,Montana,0,287400
+Mexico,2014,Qtr 3,August,1,Paseo,3273.6,35941
+Mexico,2014,Qtr 3,August,1,Velo,852.6,12180
+Mexico,2014,Qtr 3,August,1,VTT,17241,574700
+Mexico,2014,Qtr 3,September,1,Amarilla,35259,587650
+Mexico,2014,Qtr 3,September,1,Carretera,404.64,6744
+Mexico,2014,Qtr 3,September,1,Montana,2032.8,16940
+Mexico,2014,Qtr 3,September,1,Paseo,4788.8,96940
+Mexico,2014,Qtr 3,September,1,Velo,23737.5,263750
+Mexico,2014,Qtr 3,September,1,VTT,12960,129600
+Mexico,2014,Qtr 4,October,1,Amarilla,25209.6,168720
+Mexico,2014,Qtr 4,October,1,Carretera,37229.5,758450
+Mexico,2014,Qtr 4,October,1,Montana,25788.6,194265
+Mexico,2014,Qtr 4,October,1,Paseo,36671.75,336888
+Mexico,2014,Qtr 4,October,1,Velo,2811.6,23020
+Mexico,2014,Qtr 4,October,1,VTT,5830.65,507773
+Mexico,2014,Qtr 4,November,1,Amarilla,3049.2,33880
+Mexico,2014,Qtr 4,November,1,Carretera,2093.25,41865
+Mexico,2014,Qtr 4,November,1,Montana,165.6,8280
+Mexico,2014,Qtr 4,November,1,Paseo,127674,1063950
+Mexico,2014,Qtr 4,November,1,Velo,559.86,9331
+Mexico,2014,Qtr 4,November,1,VTT,9866.25,109625
+Mexico,2014,Qtr 4,December,1,Amarilla,18799.05,222855
+Mexico,2014,Qtr 4,December,1,Carretera,38464.23,480347
+Mexico,2014,Qtr 4,December,1,Montana,9249.05,174605
+Mexico,2014,Qtr 4,December,1,Paseo,47045.36,656618
+Mexico,2014,Qtr 4,December,1,Velo,15500.16,203508
+Mexico,2014,Qtr 4,December,1,VTT,3287.43,28307
+United States of America,2013,Qtr 3,September,1,Amarilla,238.68,23868
+United States of America,2013,Qtr 3,September,1,Carretera,412.5,41250
+United States of America,2013,Qtr 3,September,1,Montana,7494,749400
+United States of America,2013,Qtr 3,September,1,Paseo,3370.15,46625
+United States of America,2013,Qtr 3,September,1,Velo,588.8,14720
+United States of America,2013,Qtr 3,September,1,VTT,4886,122150
+United States of America,2013,Qtr 4,October,1,Amarilla,15669.6,264515
+United States of America,2013,Qtr 4,October,1,Carretera,3399.2799999999997,25604
+United States of America,2013,Qtr 4,October,1,Montana,3764.83,103847
+United States of America,2013,Qtr 4,October,1,Paseo,16933.8,274487
+United States of America,2013,Qtr 4,October,1,Velo,69648.75,771075
+United States of America,2013,Qtr 4,October,1,VTT,69621,693540
+United States of America,2013,Qtr 4,November,1,Amarilla,4586.4,38220
+United States of America,2013,Qtr 4,November,1,Carretera,110.46,1841
+United States of America,2013,Qtr 4,November,1,Montana,22550,225500
+United States of America,2013,Qtr 4,November,1,Paseo,105367.5,713394
+United States of America,2013,Qtr 4,November,1,Velo,115830,772200
+United States of America,2013,Qtr 4,November,1,VTT,1265,25300
+United States of America,2013,Qtr 4,December,1,Amarilla,3385.2,24180
+United States of America,2013,Qtr 4,December,1,Paseo,859.3199999999999,42966
+United States of America,2013,Qtr 4,December,1,Velo,47701.9,333170
+United States of America,2013,Qtr 4,December,1,VTT,21254,335500
+United States of America,2014,Qtr 1,January,1,Amarilla,7237.5,72375
+United States of America,2014,Qtr 1,January,1,Carretera,1341,22350
+United States of America,2014,Qtr 1,January,1,Montana,44703.75,343875
+United States of America,2014,Qtr 1,January,1,Paseo,127129.035,1058569.5
+United States of America,2014,Qtr 1,January,1,Velo,416.25,8325
+United States of America,2014,Qtr 1,January,1,VTT,2112.48,23472
+United States of America,2014,Qtr 1,February,1,Amarilla,11340,94500
+United States of America,2014,Qtr 1,February,1,Carretera,222.96,22296
+United States of America,2014,Qtr 1,February,1,Montana,1181.18,9086
+United States of America,2014,Qtr 1,February,1,Paseo,7093.700000000001,75530
+United States of America,2014,Qtr 1,February,1,Velo,20662.5,344375
+United States of America,2014,Qtr 1,February,1,VTT,25596,853200
+United States of America,2014,Qtr 1,March,1,Amarilla,89790,897900
+United States of America,2014,Qtr 1,March,1,Carretera,43144.5,616350
+United States of America,2014,Qtr 1,March,1,Montana,1218.6,10155
+United States of America,2014,Qtr 1,March,1,Paseo,20451.4,393460
+United States of America,2014,Qtr 1,March,1,Velo,703.2,17580
+United States of America,2014,Qtr 1,March,1,VTT,1215.83,11053
+United States of America,2014,Qtr 2,April,1,Amarilla,0,23436
+United States of America,2014,Qtr 2,April,1,Carretera,43068.75,430687.5
+United States of America,2014,Qtr 2,April,1,Montana,6903,690300
+United States of America,2014,Qtr 2,April,1,Paseo,5275.725,86572.5
+United States of America,2014,Qtr 2,April,1,Velo,1696.8000000000002,12120
+United States of America,2014,Qtr 2,April,1,VTT,42572.25,473025
+United States of America,2014,Qtr 2,May,1,Amarilla,49770,355500
+United States of America,2014,Qtr 2,May,1,Carretera,4880.4,34860
+United States of America,2014,Qtr 2,May,1,Montana,80955,809550
+United States of America,2014,Qtr 2,May,1,Paseo,35830.45,891689
+United States of America,2014,Qtr 2,May,1,Velo,1185,11850
+United States of America,2014,Qtr 2,May,1,VTT,3250.8,21672
+United States of America,2014,Qtr 2,June,1,Amarilla,3679.12,45989
+United States of America,2014,Qtr 2,June,1,Carretera,19870.65,335805
+United States of America,2014,Qtr 2,June,1,Montana,2325.2799999999997,39344
+United States of America,2014,Qtr 2,June,1,Paseo,26582.83,612579
+United States of America,2014,Qtr 2,June,1,Velo,12162.92,231049
+United States of America,2014,Qtr 2,June,1,VTT,5914.4,129380
+United States of America,2014,Qtr 3,July,1,Amarilla,5279.174999999999,47992.5
+United States of America,2014,Qtr 3,July,1,Carretera,177.03,17703
+United States of America,2014,Qtr 3,July,1,Montana,22668.75,453375
+United States of America,2014,Qtr 3,July,1,Paseo,48793.02,1223934
+United States of America,2014,Qtr 3,July,1,Velo,103320,738000
+United States of America,2014,Qtr 3,July,1,VTT,698.4000000000001,8730
+United States of America,2014,Qtr 3,August,1,Amarilla,0,25692
+United States of America,2014,Qtr 3,August,1,Paseo,2357.88,37716
+United States of America,2014,Qtr 3,August,1,Velo,2832,409265
+United States of America,2014,Qtr 3,August,1,VTT,204967,1744750
+United States of America,2014,Qtr 3,September,1,Amarilla,65236.5,724850
+United States of America,2014,Qtr 3,September,1,Carretera,700.92,23364
+United States of America,2014,Qtr 3,September,1,Montana,1629.6,16296
+United States of America,2014,Qtr 3,September,1,Paseo,4555.5,47625
+United States of America,2014,Qtr 3,September,1,Velo,19950,199500
+United States of America,2014,Qtr 3,September,1,VTT,50409,560100
+United States of America,2014,Qtr 4,October,1,Amarilla,4895.52,42969
+United States of America,2014,Qtr 4,October,1,Carretera,42420,303000
+United States of America,2014,Qtr 4,October,1,Montana,626.4,31320
+United States of America,2014,Qtr 4,October,1,Paseo,11314.470000000001,167889
+United States of America,2014,Qtr 4,October,1,Velo,47419.65,484045
+United States of America,2014,Qtr 4,October,1,VTT,84869.7,665395
+United States of America,2014,Qtr 4,November,1,Amarilla,494.4,24720
+United States of America,2014,Qtr 4,November,1,Carretera,1827,30450
+United States of America,2014,Qtr 4,November,1,Montana,1960.56,32676
+United States of America,2014,Qtr 4,November,1,Paseo,66388,1283450
+United States of America,2014,Qtr 4,November,1,Velo,268.03,3829
+United States of America,2014,Qtr 4,November,1,VTT,35805,298375
+United States of America,2014,Qtr 4,December,1,Amarilla,28812,420825
+United States of America,2014,Qtr 4,December,1,Carretera,4035.5,99890
+United States of America,2014,Qtr 4,December,1,Montana,31466.25,358850
+United States of America,2014,Qtr 4,December,1,Paseo,39610.45,509753
+United States of America,2014,Qtr 4,December,1,Velo,30457.2,422568
+United States of America,2014,Qtr 4,December,1,VTT,2862.5,57250
