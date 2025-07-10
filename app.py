@@ -14,7 +14,7 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 # Load Data (Cached for speed)
 @st.cache_data
 def load_data():
-    df = pd.read_csv('test-pbi-data.csv', encoding='utf-8')
+    df = pd.read_csv('test-pbi-data.csv', encoding='utf-8', low_memory=False)
     return df
  
 df = load_data()
