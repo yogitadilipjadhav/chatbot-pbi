@@ -1,49 +1,42 @@
-import streamlit as st
-import pandas as pd
-from openai import OpenAI
+import streamlit as st 
+import pandas as pd 
+from openai import OpenAI 
 import re
 
-# Set page configuration
+#Set page configuration
 st.set_page_config(page_title="Power BI Chatbot", page_icon="🤖")
-
 st.title("🤖 AI Chatbot for Power BI Dashboard")
 
 #Initialize OpenAI client (New API)
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-# Load Data (Cached for speed)
-@st.cache_data
-def load_data():
-    df = pd.read_csv('test-pbi-data.csv', encoding='utf-8', low_memory=False)
+#Load Data (Cached for speed)
+@st.cache_data def load_data(): 
+    df = pd.read_csv('test-pbi-data.csv', encoding='utf-8', low_memory=False, dtype=str) 
     return df
- 
+
 df = load_data()
- 
 st.title("📊 AI Business Insights Chatbot (No Dropdowns)")
- 
-# -------------------------------
-# Pre-load unique values for simple keyword extraction
-brands = [str(b).lower() for b in df['BRAND'].dropna().unique()]
-markets = [str(m).lower() for m in df['MARKET_SHORT'].dropna().unique()]
-kpis = [str(k).lower() for k in df['KPI'].dropna().unique()]
+
+#Pre-load unique values for simple keyword extraction
+brands = [str(b).lower() for b in df['BRAND'].dropna().unique()] 
+markets = [str(m).lower() for m in df['MARKET_SHORT'].dropna().unique()] 
+kpis = [str(k).lower() for k in df['KPI'].dropna().unique()] 
 periods = [str(p).lower() for p in df['PERIOD'].dropna().unique()]
- 
-# -------------------------------
-# Step 1: User Question Input
+
+#Step 1: User Question Input
 user_question = st.text_area("Ask your business question:", height=100)
- 
-def extract_keywords(question):
-    question_lower = question.lower()
- 
-    found_brand = next((b for b in brands if b in question_lower), None)
-    found_market = next((m for m in markets if m in question_lower), None)
-    found_kpi = next((k for k in kpis if k in question_lower), None)
-    found_period = next((p for p in periods if p in question_lower), None)
- 
+
+#Keyword Extraction
+def extract_keywords(question): 
+    question_lower = question.lower() 
+    found_brand = next((b for b in brands if b in question_lower), None) 
+    found_market = next((m for m in markets if m in question_lower), None) 
+    found_kpi = next((k for k in kpis if k in question_lower), None) 
+    found_period = next((p for p in periods if p in question_lower), None) 
     return found_brand, found_market, found_kpi, found_period
- 
-# -------------------------------
-# Step 2: Apply Filters Automatically
+
+#Step 2: Apply Filters Automatically
 if st.button("Get AI Insight") and user_question.strip() != "":
     brand, market, kpi, period = extract_keywords(user_question)
  
@@ -64,15 +57,16 @@ if st.button("Get AI Insight") and user_question.strip() != "":
     else:
         summary_text = "No matching data found."
  
-    # -------------------------------
     # Step 3: Generate AI Answer
     prompt = f"""
-        You are an AI business analyst. Here is the data you can use:
-            {summary_text}
+    You are an AI business analyst. Here is the data you can use:
  
-        Answer the user's question in a concise and professional business tone:
-        Question: {user_question}
-        """
+    {summary_text}
+ 
+    Answer the user's question in a concise and professional business tone:
+ 
+    Question: {user_question}
+    """
  
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -82,14 +76,14 @@ if st.button("Get AI Insight") and user_question.strip() != "":
         ],
         temperature=0.7,
         max_tokens=500
-        )
-    
+    )
+ 
     ai_answer = response.choices[0].message.content
  
     st.success(ai_answer)
  
-    # Show filters used (optional)
     st.markdown(f"**Filters used:** Brand: `{brand}`, Market: `{market}`, KPI: `{kpi}`, Period: `{period}`")
+ 
     with st.expander("See Filtered Data"):
         st.dataframe(filtered_df)
 else:
