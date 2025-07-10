@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openai
+from openai import OpenAI
 import re
 
 # Set page configuration
@@ -8,8 +8,8 @@ st.set_page_config(page_title="Power BI Chatbot", page_icon="🤖")
 
 st.title("🤖 AI Chatbot for Power BI Dashboard")
 
-# Load OpenAI API key from Streamlit secrets
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+#Initialize OpenAI client (New API)
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load Data (Cached for speed)
 @st.cache_data
@@ -74,17 +74,19 @@ if st.button("Get AI Insight") and user_question.strip() != "":
         Question: {user_question}
         """
  
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are an expert business insights assistant."},
             {"role": "user", "content": prompt}
         ],
-        temperature=0.3,
+        temperature=0.7,
         max_tokens=500
-    )
+        )
+    
+    ai_answer = response.choices[0].message.content
  
-    st.success(response['choices'][0]['message']['content'])
+    st.success(ai_answer)
  
     # Show filters used (optional)
     st.markdown(f"**Filters used:** Brand: `{brand}`, Market: `{market}`, KPI: `{kpi}`, Period: `{period}`")
