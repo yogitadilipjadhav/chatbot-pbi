@@ -91,4 +91,4 @@ if st.button("Get AI Insight") and user_question.strip() != "":
     with st.expander("See Filtered Data"):
         st.dataframe(filtered_df)
 else:
-st.info("Enter a question and click the button to get insights.")
+    st.info("Enter a question and click the button to get insights.")
