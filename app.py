@@ -54,6 +54,7 @@ if st.button("Get AI Insight") and user_question.strip() != "":
  
     if not filtered_df.empty:
         summary_df = filtered_df.groupby(['BRAND', 'MARKET_SHORT', 'KPI', 'PERIOD'])['Value'].sum().reset_index()
+        summary_df = summary_df.sort_values(by='Value', ascending=False).head(10)  # Limit to top 10 rows
         summary_text = summary_df.to_string(index=False)
     else:
         summary_text = "No matching data found."
